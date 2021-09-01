@@ -1,16 +1,25 @@
-### Hi there 👋
+Hola Bienvenido.! 👋
 
-<!--
-**maksudxx/maksudxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔸Me llamo Facundo. Soy egresado de la carrera Analista programador universitario en la Universidad Nacional de Jujuy y egresado de la carrera de desarrollador web Full Stack en #SoyHenry. Me considero una persona autodidacta que le gusta aprender cosas nuevas
 
-Here are some ideas to get you started:
+Actualmente manejo las siguientes tecnologias:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🔸HTML
+  🔸CSS
+  🔸JavaScript
+  🔸React
+  🔸Redux
+  🔸NodeJs
+  🔸PostgreSQL
+  🔸Express
+
+
+🔸Estoy en búsqueda de nuevas experiencias y sobre todo crecer profesionalmente!
+
+
+Les dejo mi contacto aquí abajo👇
+
+📧facundomaksud@gmail.com
+   https://www.linkedin.com/in/facundo-maksud/
+  
+
