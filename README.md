@@ -20,6 +20,8 @@ Actualmente manejo las siguientes tecnologias:
 Les dejo mi contacto aquí abajo👇
 
 📧facundomaksud@gmail.com
-   https://www.linkedin.com/in/facundo-maksud/
+
+
+  https://www.linkedin.com/in/facundo-maksud/
   
 
