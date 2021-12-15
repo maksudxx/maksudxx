@@ -24,4 +24,6 @@ Les dejo mi contacto aquí abajo👇
 
   https://www.linkedin.com/in/facundo-maksud/
   
+  https://facundo-maksud.vercel.app/#/
+  
 
